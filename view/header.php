@@ -15,23 +15,23 @@
   <title>
     <?=$fullname?>Web Wallet
   </title>
-<meta property="og:site_name" content="GreenCoin GRN Web Wallet"/>
-<meta property="og:title" content="GreenCoin GRN Web Wallet"/>
-<meta property="og:url" content="https://wallet.greencoin.life/"/>
+<meta property="og:site_name" content="SmartChain XSC Web Wallet"/>
+<meta property="og:title" content="SmartChain XSC Web Wallet"/>
+<meta property="og:url" content="https://wallet.smartschain.com/"/>
 <meta property="og:type" content="website"/>
 <meta property="og:image" content="https://preview.ibb.co/igPEry/Planet_1000px.png"/>
 <meta property="og:image:width" content="128"/>
 <meta property="og:image:height" content="128"/>
-<meta itemprop="name" content="GreenCoin GRN Web Wallet"/>
-<meta itemprop="url" content="https://wallet.greencoin.life/"/>
+<meta itemprop="name" content="SmartChain XSC Web Wallet"/>
+<meta itemprop="url" content="https://wallet.smartschain.com/"/>
 <meta itemprop="thumbnailUrl" content="https://preview.ibb.co/igPEry/Planet_1000px.png"/>
 <link rel="image_src" href="https://preview.ibb.co/igPEry/Planet_1000px.png" />
 <meta itemprop="image" content="https://preview.ibb.co/igPEry/Planet_1000px.png"/>
-<meta name="twitter:title" content="GreenCoin GRN Exchange"/>
+<meta name="twitter:title" content="SmartChain Exchange"/>
 <meta name="twitter:image" content="https://preview.ibb.co/igPEry/Planet_1000px.png"/>
-<meta name="twitter:url" content="https://twitter.com/GreenCoinGRN/"/>
+<meta name="twitter:url" content="https://twitter.com/SmartsChain/"/>
 <meta name="twitter:card" content="summary"/>
-<meta name="description" content="GreenCoin GRN web wallet" />
+<meta name="description" content="SnartChain XSC web wallet" />
   <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0, shrink-to-fit=no' name='viewport' />
   <!--     Fonts and icons     -->
   <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700,200" rel="stylesheet" />
@@ -71,15 +71,15 @@
       <div class="collapse navbar-collapse justify-content-end" id="navigation" data-nav-image="../assets/img/blurred-image-1.jpg">
         <ul class="navbar-nav">
           <li class="nav-item">
-            <a class="nav-link" href="http://greencoin.life">Main Site</a>
+            <a class="nav-link" href="http://Smartschain.com">Platform</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="https://greencoin.online/support/?ref=1">Have an issue?</a>
+            <a class="nav-link" href="http://support@smartschain.com">support?</a>
           </li>
 	  <li class="nav-item">
-                        <a class="nav-link" href="https://greencoin.online/?ref=1">
+                        <a class="nav-link" href="https://smartschain.com/exchange">
                             <i class="now-ui-icons loader_refresh spin"></i>
-                            <p>GRN Exchange</p>
+                            <p>XSC Exchange</p>
                         </a>
           </li>
           <li class="nav-item dropdown">
@@ -105,15 +105,15 @@
 </div>
           </li>
           <li class="nav-item">
-            <a class="nav-link" rel="tooltip" title="Follow us on Twitter" data-placement="bottom" href="https://twitter.com/GreenCoinGRN" target="_blank">
+            <a class="nav-link" rel="tooltip" title="Follow us on Twitter" data-placement="bottom" href="https://twitter.com/smartschain" target="_blank">
               <i class="fab fa-twitter"></i>
               <p class="d-lg-none d-xl-none">Twitter</p>
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" rel="tooltip" title="Like us on Facebook" data-placement="bottom" href="https://fb.me/GreenCoinGRN" target="_blank">
+            <a class="nav-link" rel="tooltip" title="Join Telegram Chat" data-placement="bottom" href="https://t.me/smartschain" target="_blank">
               <i class="fab fa-facebook-square"></i>
-              <p class="d-lg-none d-xl-none">Facebook</p>
+              <p class="d-lg-none d-xl-none">Telegram</p>
             </a>
           </li>
         </ul>
